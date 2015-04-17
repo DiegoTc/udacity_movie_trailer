@@ -1,0 +1,11 @@
+#Get Source Code
+You can download the source code from the following link: https://github.com/DiegoTc/udacity_movie_trailer
+
+#Run the code
+ + Clone the code
+ + Be sure to have python install on your computer
+ + Go to the folder on the terminal
+ + Run the following command "python entertainment.py". This will open a browser window with the top 6 movies.
+
+
+Develop by: Diego Turcios
